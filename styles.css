@@ -32,19 +32,9 @@ p {
   font-size: 20px;
 }
 img {
-  height: 100px;
-}
-section {
-  background: rgb(184, 156, 213);
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
+  height: 200px;
 }
 
-/* código omitido */
-
-section {
-  padding-left: 20px;
-  padding-right: 20px;
+.categoria-videos{
+  display:flex;
 }
